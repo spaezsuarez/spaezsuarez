@@ -1,4 +1,9 @@
-### Hi there 👋
+### Sergio Paez (spaezsuarez) 👋
+
+![Github Stats for spaezsuarez](https://github-readme-stats.vercel.app/api?username=spaezsuarez&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=ffffff)
+
+[![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spaezsuarez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **spaezsuarez/spaezsuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
